@@ -1,0 +1,7 @@
+/* google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Manrope:wght@700&family=Open+Sans:wght@600&family=Poppins:wght@700&family=Raleway:ital,wght@1,300&family=Roboto:wght@300;500&display=swap');
+
+/* common or utilities */
+.f-family{
+    font-family: 'Poppins', sans-serif;
+}
