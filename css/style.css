@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter&family=Manrope:wght@700&family=Open+Sans:wght@600&family=Poppins:wght@400;600;700&family=Raleway:ital,wght@1,300&family=Roboto:wght@300;500&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Inter&family=Manrope:wght@700&family=Open+Sans:wght@600&family=Poppins:wght@600;700&family=Raleway:ital,wght@1,300&family=Roboto:wght@300;500&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Inter&family=Manrope:wght@700&family=Open+Sans:wght@600&family=Poppins:wght@700&family=Raleway:ital,wght@1,300&family=Roboto:wght@300;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Manrope:wght@700&family=Open+Sans:wght@600&family=Poppins:wght@400;600;700;900&family=Raleway:ital,wght@1,300&family=Roboto:wght@300;500&display=swap');
 
 /* common or utilities */
 .f-family{
@@ -18,6 +19,9 @@
 }
 .fw7{
     font-weight: 700;
+}
+.fw9{
+    font-weight: 900;
 }
 /* slider section */
 .btn-white{
@@ -40,7 +44,7 @@
     color: #5243C2;
 }
 .pac-btn{
-    background: #F496D1;
+    background: #f496d221;
     color: #3F87F5;
     border: none;
     border-radius: 24px;
@@ -62,12 +66,17 @@
     width: 232px;
     height: 387px;
     margin-left: 34px;
-    margin-top: 84px;
+    margin-top: 74px;
 }
 .card2{
     height: 480px;
     background: #3F87F5;
     border-radius: 26px;
+    box-shadow: 0px 42px 34px rgba(63, 135, 245, 0.25);
+}
+/* question section */
+.accordion-font{
+    font-size: 14px;
 }
 /* footer section */
 .footer-details{
@@ -77,7 +86,7 @@
 .app-btn{
     background-color: #0B0D17;
     width: 160px;
-    height: 60px; 
+    height: 48px; 
     margin: 8px 0; 
     border: 1px solid white;
     border-radius: 10px;
@@ -88,8 +97,11 @@
     font-weight: 400;
 }
 .p-top{
-margin-top: 10px;
+margin-top: 7px;
 }
 .m-top{
    margin-top: -10px;
+}
+.m-left{
+    margin-left: -48px;
 }
