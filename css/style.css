@@ -69,3 +69,27 @@
     background: #3F87F5;
     border-radius: 26px;
 }
+/* footer section */
+.footer-details{
+    background: #0B0D17;
+    padding: 80px;
+}
+.app-btn{
+    background-color: #0B0D17;
+    width: 160px;
+    height: 60px; 
+    margin: 8px 0; 
+    border: 1px solid white;
+    border-radius: 10px;
+    color: white;
+}
+.btn-font{
+    font-size: 12px;
+    font-weight: 400;
+}
+.p-top{
+margin-top: 10px;
+}
+.m-top{
+   margin-top: -10px;
+}
