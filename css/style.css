@@ -1,10 +1,14 @@
-/* google fonts */
+/*---------------------
+ google fonts
+ ---------------------- */
 @import url('https://fonts.googleapis.com/css2?family=Inter&family=Manrope:wght@700&family=Open+Sans:wght@600&family=Poppins:wght@400;600;700&family=Raleway:ital,wght@1,300&family=Roboto:wght@300;500&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Inter&family=Manrope:wght@700&family=Open+Sans:wght@600&family=Poppins:wght@600;700&family=Raleway:ital,wght@1,300&family=Roboto:wght@300;500&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Inter&family=Manrope:wght@700&family=Open+Sans:wght@600&family=Poppins:wght@700&family=Raleway:ital,wght@1,300&family=Roboto:wght@300;500&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Inter&family=Manrope:wght@700&family=Open+Sans:wght@600&family=Poppins:wght@400;600;700;900&family=Raleway:ital,wght@1,300&family=Roboto:wght@300;500&display=swap');
 
-/* common or utilities */
+/*--------------------
+ common or utilities
+ ---------------------- */
 .f-family{
     font-family: 'Poppins', sans-serif;
 }
@@ -23,7 +27,12 @@
 .fw9{
     font-weight: 900;
 }
-/* slider section */
+.m-bottom{
+    margin-bottom: 100px;
+}
+/*----------------------
+ slider section
+ ----------------------- */
 .btn-white{
     background: #FFFFFF;
     border: none;
@@ -33,10 +42,9 @@
     padding: 10px;
     color: #3F87F5;
 }
-.m-bottom{
-    margin-bottom: 100px;
-}
-/* our package section */
+/*----------------------
+ our package section 
+ -----------------------*/
 .f-color{
     color: #231D4F;
 }
@@ -74,11 +82,21 @@
     border-radius: 26px;
     box-shadow: 0px 42px 34px rgba(63, 135, 245, 0.25);
 }
-/* question section */
+/*------------------
+ question section
+ ------------------- */
 .accordion-font{
     font-size: 14px;
 }
-/* footer section */
+/*--------------------
+ contact section 
+ --------------------*/
+.contact-section{
+  background: url(../images/convention-center.jpg) no-repeat center center / cover;
+}
+/*-------------------
+ footer section
+ -------------------- */
 .footer-details{
     background: #0B0D17;
     padding: 80px;
