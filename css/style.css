@@ -5,3 +5,11 @@
 .f-family{
     font-family: 'Poppins', sans-serif;
 }
+.btn-white{
+    background: #FFFFFF;
+    border-radius: 5px;
+    width: 168px;
+    height: 44px;
+    padding: 10px;
+    color: #3F87F5;
+}
